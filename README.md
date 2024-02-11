@@ -3,15 +3,18 @@ Microservices with Spring Boot gRPC
 
 ## Context
 Q: What is the issue that we're seeing that is motivating this decision or change?
+
 A: **The decision to migrate from a monolithic architecture to microservices with Spring Boot gRPC is driven by the need for scalability, flexibility, and performance in our Fintech project. As our project grows, managing a monolithic system becomes increasingly complex and difficult to maintain. We need a solution that allows us to break down our system into smaller, independently deployable services while ensuring efficient communication and high performance.**
 
 ## Decision
 Q: What is the solution that we're proposing and/or doing?
+
 A: **Our solution involves migrating from the monolithic architecture to microservices architecture using Spring Boot and gRPC. This approach allows us to design our system as a collection of small, loosely coupled services that communicate via a high-performance RPC framework. By leveraging gRPC, we can achieve faster communication between services while maintaining compatibility with a variety of programming languages and platforms.**
 
 ## Rationale
 Q: Why do we choose this solution?
-A: We choose this solution for several reasons:
+
+**A: We choose this solution for several reasons:**
 - **Performance:** gRPC offers lightweight and efficient communication between microservices, making it ideal for high-performance applications.
 - **Polyglot Persistence:** With microservices architecture, we can adopt polyglot persistence, allowing each service to use the most appropriate database technology for its specific needs.
 - **Flexibility:** Microservices architecture provides flexibility in development and deployment, allowing teams to work independently on different services and scale components as needed.

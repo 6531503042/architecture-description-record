@@ -46,3 +46,8 @@ Q: Cons – What becomes more difficult?
 
 ## Sample code
 Give some sample code related to this decision.
+
+(img/image4.png)
+(img/image5.png)
+(img/image6.png)
+(img/image7.png)

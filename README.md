@@ -47,7 +47,8 @@ Q: Cons – What becomes more difficult?
 ## Sample code
 Give some sample code related to this decision.
 
-![image 4.png] (img/image 4.png)
-![image 5.png] (img/image 5.png)
-![image 6.png] (img/image 6.png)
-![image 7.png] (img/image 7.png)
+![image 4.png](img/image4.png)
+![image 5.png](img/image5.png)
+![image 6.png](img/image6.png)
+![image 7.png](img/image7.png)
+

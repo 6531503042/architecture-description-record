@@ -1,5 +1,5 @@
 # Title
-1. Adopting gRPC for Efficient Inter-Service Communication
+Microservices with Spring Boot gRPC
 
 ## Context
 Q: What is the issue that we're seeing that is motivating this decision or change?
